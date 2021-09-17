@@ -1,4 +1,0 @@
-﻿  ghjdghjdhdh.cpp
-C:\Users\79236\Desktop\ghjdghjdhdh\ghjdghjdhdh\ghjdghjdhdh.cpp(69,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
-C:\Users\79236\Desktop\ghjdghjdhdh\ghjdghjdhdh\ghjdghjdhdh.cpp(186,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  ghjdghjdhdh.vcxproj -> C:\Users\79236\Desktop\ghjdghjdhdh\Debug\ghjdghjdhdh.exe
